@@ -11,7 +11,7 @@ I am a Python Engineer that builds custom scripts directed towards data analytic
 * ✉️  You can contact me at [hak\_0ryx@proton.me](mailto:hak_0ryx@proton.me)
 * 🧠  I'm learning DevOps related tasks
 * 🤝  I'm open to collaborating on Data Science & Engineer Projects
-* ⚡  On the side I do Pen Tests on WebApps ( Bug Bounty ) for fortune 500 companies over at Hackerone.com
+* ⚡  In my free time I do Pen Tests on WebApps ( Bug Bounty ) for fortune 500 companies over at Hackerone.com
 
 ### Skills
 
