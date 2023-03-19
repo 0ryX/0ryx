@@ -1,4 +1,4 @@
-Hi 👋 My name is Seth Sampson
+Hi 👋 My name is Limer
 =============================
 
 Python Dev
