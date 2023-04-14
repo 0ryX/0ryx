@@ -2,7 +2,7 @@
 
 I am a developer with a interest in breaking things. From hacking and bug bounty to reverse engineering and analysis to malware development. But lately I've aslo taken a interest in blockchain. 
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeR7OEDQDyA7Cg%2Fgiphy.gif&f=1&nofb=1&ipt=8e82fdf5569033f6fb95cdde4d25f28881a82d3461744e73b7ba1d22a5bc0af7&ipo=images
+https://giffiles.alphacoders.com/110/110914.gif
 
 ### Skills
 
