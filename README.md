@@ -2,7 +2,6 @@
 
 I am a developer with a interest in breaking things. From hacking and bug bounty to reverse engineering and analysis to malware development. But lately I've aslo taken a interest in blockchain. 
 
-https://pa1.narvii.com/5672/a9cec839170732f7e72e26b983e25325d9dfacb8_hq.gif
 
 ### Skills
 
