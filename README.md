@@ -1,17 +1,8 @@
-Hi 👋 My name is 0ryX
-=============================
+### About Me
 
-Python Dev
-----------
+I am a developer with a interest in breaking things. From hacking and bug bounty to reverse engineering and analysis to malware development. But lately I've aslo taken a interest in blockchain. 
 
-I am a Python Engineer that builds custom scripts directed towards data analytics, web scraping and data mining, API development, custom database construction with SQL as well as Blockchain Smart contract and also general Python automation.
-
-* 🌍  I'm based in Mid-West
-* 🖥️  See my portfolio at [Upwork Freelance](http://www.upwork.com/freelancers/~019c220459ce0889c2)
-* ✉️  You can contact me at [hak\_0ryx@proton.me](mailto:hak_0ryx@proton.me)
-* 🧠  I'm learning DevOps related tasks
-* 🤝  I'm open to collaborating on Data Science & Engineer Projects
-* ⚡  In my free time I do Pen Tests on WebApps ( Bug Bounty ) for fortune 500 companies over at Hackerone.com
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeR7OEDQDyA7Cg%2Fgiphy.gif&f=1&nofb=1&ipt=8e82fdf5569033f6fb95cdde4d25f28881a82d3461744e73b7ba1d22a5bc0af7&ipo=images
 
 ### Skills
 
