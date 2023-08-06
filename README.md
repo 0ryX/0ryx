@@ -5,7 +5,7 @@ Lately I've aslo taken a interest in blockchains such as Solidity and web3, Sola
 
 Currently my focus is learning Rust and lower level computing for malware development. I am a avide Linux user and find my home within the terminal if you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
 
-![Alt Text](https://i.gifer.com/LUid.gif)
+![](https://i.gifer.com/LUid.gif)
 
 
 ### Skills
