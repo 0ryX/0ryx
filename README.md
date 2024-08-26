@@ -1,10 +1,12 @@
 ### About Me
 
-I am a developer with a interest in breaking things. From hacking and bug bounty to reverse engineering and analysis to malware development.
-
-Currently my focus is learning Rust and lower level computing for malware development. I am a avide Linux user and find my home within the terminal if you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
+I am a developer with a interest in breaking things. From bug bounty to reverse engineering, to malware development.
 
 ![img](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZjdnRzNmRsOXU2cjZrZjl1aXR0Y245YWU2bXZyZmI3ejRmOHpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eR7OEDQDyA7Cg/giphy.webp)
+
+Currently my focus is on Rust and lower-level programming like C for malware Reversing. I use Arch Linux and find home within the terminal and Vim. 
+
+If you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
 
 
 ### Skills
