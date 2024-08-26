@@ -1,11 +1,10 @@
 ### About Me
 
 I am a developer with a interest in breaking things. From hacking and bug bounty to reverse engineering and analysis to malware development.
-Lately I've aslo taken a interest in blockchains such as Solidity and web3, Solana and NFT development. I mainly code on nights and weekends as a hobby, I work full time as a welder for Toyota but I am available on upwork and I am also interested in collaborating with anyone who has simuliar interests. 
 
 Currently my focus is learning Rust and lower level computing for malware development. I am a avide Linux user and find my home within the terminal if you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
 
-![](https://i.gifer.com/LUid.gif)
+![img](https://i.gifer.com/LUid.gif)
 
 
 ### Skills
