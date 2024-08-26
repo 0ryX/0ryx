@@ -6,9 +6,11 @@ I am a developer with a interest in breaking things. From bug bounty to reverse 
 
 Currently my focus is on Rust and lower-level programming like C for malware Reversing. I use Arch Linux and find home within the terminal and Vim. 
 
-If you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
-
-
+The data dragnet that is our modern internet has become a corporate hellscape and I could have never imagined it to be when I was first inspired by the 
+technology back in the 90's. The fact is that we let it become what it is today, people forfit their rights for saftey. But there are still little corners where you can find decentralized communities.
+I am on those and I also run an indie Blog one might catagorize as indieweb or yesterweb. 
+This is just one of my Git instances but knowing that it is a Microsoft platform, I only share so much here,
+if I know you or you would like to read and look at my other material and projects, just ask
 ### Skills
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
