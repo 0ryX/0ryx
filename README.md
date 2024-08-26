@@ -4,7 +4,7 @@ I am a developer with a interest in breaking things. From hacking and bug bounty
 
 Currently my focus is learning Rust and lower level computing for malware development. I am a avide Linux user and find my home within the terminal if you would like to collaborate on any projects or would like to hire me, reach out to me on Twitter and I can either share my Upwork profile or we can discuss your project and map out some ideas. I use both emacs and vscode, hack the planet!!
 
-![img](https://i.gifer.com/LUid.gif)
+![img](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZjdnRzNmRsOXU2cjZrZjl1aXR0Y245YWU2bXZyZmI3ejRmOHpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eR7OEDQDyA7Cg/giphy.webp)
 
 
 ### Skills
