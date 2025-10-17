@@ -6,18 +6,15 @@
     </td>
     <td>
 
-<strong style="font-size: 45px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
-- 👾 Bug Hunter & Malware Analyst <br>
-- 🦀 Low-Level Dev Using C & Rust <br>
+<strong style="font-size: 45px;">𝑰𝒏𝒇𝒐𝑺𝒆𝒄 & 𝑪𝒐𝒅𝒊𝒏𝒈</strong>  
+- 👾 Bug Hunter / Malware Analyst <br>
+- 🦀 Low-Level Dev Using C / Rust <br>
 - 🐃 GNU/FOSS & OpenSource <br>
 - 🎮 Game Dev <br>
 - 💻 Archivist & Blogger <br>
 - 🏴 Anti-Authoritarian <br>
 - 🚩 Anti-Fascist <br>
 - 🏴‍☠️ #Anon4Life <br>
-- Twitter/X : https://twitter.com/H0ryx <br>
-- Mastodon : https://kolektiva.social/@0xBlockz <br>
-- Website : https://0ryx.github.io <br>
     </td>
   </tr>
 </table>
